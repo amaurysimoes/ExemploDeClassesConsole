@@ -1,0 +1,7 @@
+C:\Temp2\ClassesDevmedia\bin\Debug\ClassesDevmedia.exe.config
+C:\Temp2\ClassesDevmedia\bin\Debug\ClassesDevmedia.exe
+C:\Temp2\ClassesDevmedia\bin\Debug\ClassesDevmedia.pdb
+C:\Temp2\ClassesDevmedia\obj\Debug\ClassesDevmedia.csprojAssemblyReference.cache
+C:\Temp2\ClassesDevmedia\obj\Debug\ClassesDevmedia.csproj.CoreCompileInputs.cache
+C:\Temp2\ClassesDevmedia\obj\Debug\ClassesDevmedia.exe
+C:\Temp2\ClassesDevmedia\obj\Debug\ClassesDevmedia.pdb
